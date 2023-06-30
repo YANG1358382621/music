@@ -1,5 +1,6 @@
 # mu-study
-
+效果图片
+![image](https://github.com/YANG1358382621/music/blob/master/music1%E6%95%88%E6%9E%9C.png)
 ## Project setup
 ```
 npm install
